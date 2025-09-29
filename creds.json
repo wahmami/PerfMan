@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-script-441015-j6",
+  "private_key_id": "246a1356b258c795e22b1b37eccafdfad7fc1889",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmjV31cVjOcRgi\nlOYwhpNfLt/zhhSUaAc4YnNGPwwhZscJcTN3l4Fc2DHsZkoTnfIWAzpI1kUnb5X7\nlXGBmcSTCmGkblc/BGmW/WlNejQ8vtPMVdq5WOg7lWXjAmjX6vcycmno2Mli/T+R\nhpytkiU3konr38Ag2yB0Id3TGanHcxdbCAN82EgCoyVWaka05XbY2QfsWiaT3Nzh\nZnH6t7O6t/stdpS96hPlNB5hZ+/99FrJWqmbEFGKFS1S4/ELbLfzdst/6Yn6jZI4\nZDj7kqFmJ7qduq5awSAad2Kq5/09DcOpWTOVjR8nXS1HnknZHl4c4OVGuFFPiqjn\nHzCSsLqTAgMBAAECggEAKW2BgRM8GUGlVLi/1zMqRiNFPnBL/ywvG5XVgZQeItLL\nUGxxdl5fpaX7KQe6hk2j0VjlLwfpNKl7X5RpIukKLd8HsZxmpDynPRD0l/p9Mtzu\nluWGHdNhFK0RJlnLlWWTLl+qO2ptEWvX241lvIDdNAkFuH+z7RhEZs6jvCYmhn8R\n4Ks1TDFpeNc3OA+Eg+d92TenVH08pqdn/TZrvgn18wRRcTWYRDSWl94UOXOrVTUa\nQMOi7om+kPjHXElMTVXidEgA8mm3NQzk6lNAsGk5lkGAPIhhaKKtEZPuTO68o6tZ\n/M+mJlGDDwNx1HZrcXYtXPGdZtD8ow9XnSf2Ese1tQKBgQDZ+3mCVUAz9/sLNccW\nNC+UsGAEzJDesIPSkfDFvriSqT0F41A0bm+VK4AZAEVFSNGwMlDkNB4yNOutynA7\nhyDrTIq2WGApHaCXAcI8vYRnzdESaRcDDnIhsu+43wGUN4PfC10RRel++wea2Sxq\na/6Ov1oRPCRRxHBn6LuAVgwLJwKBgQDDmaEFKCX0RLAoRcQaoNNBAedJFWWe2+U0\na0PgOSyt1QX0oTBtXRqj9+N+NMPlZ0qUMrThMBCsTAJRsxwQLqKhbIj8gBbgyMKU\nsZnTqxkhqZCC0E3c7DbIYN8U+JniFfkdXHsmMsfHRKDgIPkCACrgVOnQQfnbB9kk\nXX37NlNotQKBgGv0gEwM/nv+X0VA//U+KSZhZ1xZF5JCJzb88hptByoTSNaGqm0d\nGIPvBETdfnD+zGKPuMIcEaxZyzLJ5GWG2cXOpZADGrSiKKtAwrqkPVPPebC9fRkV\naW7JGLIdN8H48IVhMllgn3A00KJe1gFqtKprmCaa+33HZMgBWgMIGnTXAoGBAJGF\nnMxvYD1pVP3BWfLNsB3vQpmW97HGu7HSE/+fyePSVsn3mkXjPMy8wl3E9/GWdV/o\nkbXvwpfNPPR3outPJuOeEhR5X4wBEPL7ZwyZgOsQcllAjI1OmDtgBthdVG9mFZ6I\njX6PzR4tqtrU7S1V3pBj3Eh6rV8NabmqbO4XLtr5AoGBAMW+gXZBl4dN/m+udwQK\nNMaprJXfthETSDfslDQQWHb8nYgzWWhlpgWciXErVJ+P4qt05ouC1hdZ9annMXH8\nAm/Npv2dHA1lxqNpHiMlN+AnTLqS1OOcDbQ+2DU4+QzL17jtMLtt13Vx6ZyySWYx\nzfoQWdqHOjcxvyzaAPZKZkm+\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendance-service-account@cogent-script-441015-j6.iam.gserviceaccount.com",
+  "client_id": "101350751484343184424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendance-service-account%40cogent-script-441015-j6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
