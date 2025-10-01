@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_authenticator as stauth
 
 from database import init_db
 from attendance_menu import attendance_menu
@@ -131,3 +130,4 @@ elif authentication_status:
             st.sidebar.info(msg)
         elif msg_type == "error":
             st.sidebar.error(msg)
+
