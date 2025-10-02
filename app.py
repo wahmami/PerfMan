@@ -266,4 +266,3 @@ elif authentication_status:
             st.sidebar.info(msg)
         elif msg_type == "error":
             st.sidebar.error(msg)
->>>>>>> 7a70e5efef2ce3ca2f1cdc291bf43c6062b79df7
