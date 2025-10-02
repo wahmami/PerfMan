@@ -8,7 +8,7 @@ def get_conn():
     cfg = st.secrets["postgres"]
     return psycopg2.connect(
         host=cfg["host"],
-        dbname=c    fg["database"],
+        dbname=cfg["database"],
         user=cfg["user"],
         password=cfg["password"],
         port=cfg.get("port", 5432)
