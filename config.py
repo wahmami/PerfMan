@@ -17,6 +17,4 @@ submodules = {
     "English": []
 }
 
-materials = [
-    "Blue pen", "Green pen", "Black pen", "Red pen", "Eraser", "Pencil", "Ruler", "Notebook"
-]
+materials = ["Feutre bleu", "Feutre  vert", "Feutre noir", "Feutre rouge", "Brosse"]

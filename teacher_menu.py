@@ -7,6 +7,8 @@ from datetime import datetime
 import pandas as pd
 
 def teacher_menu():
+    messages = []  # <-- Fix: define messages as an empty list
+
     st.header("👩‍🏫 Manage Teachers")
 
     # Add new teacher
@@ -87,6 +89,8 @@ def teacher_menu():
         # List all teachers
         st.subheader("Current Teachers")
         df_teachers = pd.DataFrame(teachers, columns=["ID", "Name", "First Day", "Subject", "Assigned Classes", "Level"])
-        st.dataframe(df_teachers.drop(columns=["ID"]))
+        st.data_editor(df_teachers.drop(columns=["ID"]), num_rows="dynamic", use_container_width=True)
     else:
         st.info("No teachers found.")
+        
+    return messages  # <-- Always return messages (even if empty)

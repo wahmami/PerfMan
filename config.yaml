@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    admin:
+      name: Admin
+      password: 'zadium'
+    teacher1:
+      name: Teacher One
+      password: '$2b$12$abc123...'
+    teacher2:
+      name: Teacher Two
+      password: '$2b$12$xyz456...'
+cookie:
+  expiry_days: 7
+  key: abcdef
+  name: perf_app_cookie
+preauthorized:
+  emails: []

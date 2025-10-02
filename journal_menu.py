@@ -37,7 +37,7 @@ def journal_menu():
     entries = get_journal_entries()
     if entries:
         df = pd.DataFrame(entries, columns=["Teacher", "Date", "Status", "Observation", "Outdated Days"])
-        st.dataframe(df)
+        st.data_editor(df, num_rows="dynamic", use_container_width=True)
     else:
         st.info("No journal checks recorded yet.")
     return messages

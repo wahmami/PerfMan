@@ -96,7 +96,7 @@ def attendance_menu():
         # Show today's attendance table
         st.subheader(f"📊 Attendance Records for {date}")
         if not df_today.empty:
-            st.dataframe(df_today)
+            st.data_editor(df_today, num_rows="dynamic", use_container_width=True)
         else:
             st.info("No attendance records for today yet.")
     else:
