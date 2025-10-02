@@ -2,7 +2,6 @@ import streamlit as st
 import psycopg2
 import pandas as pd
 import logging
-import sqlite3
 
 # --- Test PostgreSQL connection with psycopg2 ---
 try:
